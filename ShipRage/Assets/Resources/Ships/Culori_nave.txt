@@ -1,0 +1,10 @@
+---1) rosu = #ff0000
+---2) verde inchis = #026e02
+---3) verde deschis = #00ff00
+---4) mov = #7308a5
+---5) portocaliu = #ff7f00
+---6) galben = #ffff00
+---7) turcoaz = #00aeae
+---8) albastru inchis = #0000ff
+---9) albastru deschis = #52abff
+---10) roz = #ff63f5
